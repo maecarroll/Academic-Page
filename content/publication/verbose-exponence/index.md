@@ -1,10 +1,14 @@
 ---
-title: Verbose exponence
-subtitle: Integrating the typologies of multiple and distributed exponence
+title: "Verbose exponence: Integrating the typologies of multiple and
+  distributed exponence"
+subtitle: ""
 publication_types:
-  - "0"
-authors: []
+  - "2"
+authors:
+  - Carroll
+  - MJ
 doi: https://doi.org/10.1007/s11525-021-09384-8
+publication: ""
 abstract: Multiple exponence is the multiple marking of the same feature or
   category within a single word. Distributed exponence is the occurrence of
   morphological structure such that providing a precise interpretation of a
