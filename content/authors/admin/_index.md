@@ -1,7 +1,8 @@
 ---
-role: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Postdoctoral Fellow
+avatar_filename: matt.jpeg
+bio: My research interests include linguistic typology, language documentation,
+  evolution and computational linguistics
 interests:
   - morphology
   - typology
@@ -13,21 +14,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8419-0539
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/MattCarrollLing
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=91heppMAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/matthewjcarroll
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0002-8419-0539
 organizations:
   - name: Centre of Excellence for the Dynamics of Language
     url: https://www.dynamicsoflaguage.edu.au/
+  - name: Surrey Morphology Group
+    url: https://www.smg.surrey.ac.uk/
 education:
   courses:
     - course: PhD in Linguistics
