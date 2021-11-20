@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Fellow
-avatar_filename: matt.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include linguistic typology, language documentation,
   evolution and computational linguistics
 interests:
