@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:mattcarrollj@gmail.com
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8419-0539
