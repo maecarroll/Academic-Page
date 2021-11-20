@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral Fellow
-avatar_filename: matt.jpeg
+avatar_filename: matt.jpg
 bio: My research interests include linguistic typology, language documentation,
   evolution and computational linguistics
 interests:
@@ -39,7 +39,8 @@ education:
 superuser: true
 highlight_name: true
 title: Matthew J Carroll
-email: ""
+email: "mattcarrollj@gmail.com"
+superuser: true
 ---
 I am fascinated by the exuberant and finely detailed structures found in languages which linguists call 'morphological complexity.' I explore this using traditional qualitative linguistics (description, typology and historical linguistics) enhanced with computational and mathematical methodologies.
 
