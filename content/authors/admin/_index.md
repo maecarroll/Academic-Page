@@ -42,11 +42,8 @@ title: Matthew J Carroll
 email: "mattcarrollj@gmail.com"
 ---
 
-SHOW
 I am fascinated by the exuberant and finely detailed structures found in languages which linguists call 'morphological complexity.' I explore this using traditional qualitative linguistics (description, typology and historical linguistics) enhanced with computational and mathematical methodologies.
 
 I am especially interested in role that variation, function and adaptation might play in explaining linguistic structures.
 
 The core of my work is fieldwork on undescribed and (often) endangered languages of New Guinea. I practice community-led partnerships in language documentation to produce collections of endangered languages serving both scientific and community needs.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

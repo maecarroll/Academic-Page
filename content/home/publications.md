@@ -14,8 +14,8 @@ content:
     category: ""
     publication_type: ""
     author: ""
-    exclude_featured: true
-headless: true
+    exclude_featured: false
+headless: false
 design:
   view: 4
 ---
