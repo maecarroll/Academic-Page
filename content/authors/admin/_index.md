@@ -9,7 +9,7 @@ interests:
   - Papuan languages
   - language documentation
   - language evolution
-  - computational linguisitcs
+  - computational linguistics
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,6 +41,8 @@ highlight_name: true
 title: Matthew J Carroll
 email: "mattcarrollj@gmail.com"
 ---
+
+SHOW
 I am fascinated by the exuberant and finely detailed structures found in languages which linguists call 'morphological complexity.' I explore this using traditional qualitative linguistics (description, typology and historical linguistics) enhanced with computational and mathematical methodologies.
 
 I am especially interested in role that variation, function and adaptation might play in explaining linguistic structures.
