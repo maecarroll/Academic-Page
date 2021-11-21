@@ -1,12 +1,12 @@
 ---
 widget: pages
 widget_id: publications
-weight: 90
+weight: 30
 title: Recent Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 3
   offset: 0
   order: desc
   filters:
