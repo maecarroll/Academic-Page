@@ -4,8 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Carroll
-  - MJ
+  - MJ Carroll
 doi: https://doi.org/10.1075/sl.19015.car
 publication: Studies in Language
 publication_short: ""
@@ -18,6 +17,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-11-19T21:27:45.322Z
+date: 2020-08-24T21:27:45.322Z
 ---
 >
