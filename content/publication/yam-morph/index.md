@@ -6,7 +6,7 @@ publication_types:
 authors:
   - MJ Carroll
 doi: https://doi.org/10.1093/acrefore/9780199384655.013.677
-publication: Oxford Research Encyclopedia of Linguistics
+publication: _Oxford Research Encyclopedia of Linguistics_
 publication_short: ""
 abstract: The Yam languages are a primary language family spoken in southern New Guinea across an area spanning around 180km west to east across both the Indonesian province of Papua and Papua New Guinea.
 
