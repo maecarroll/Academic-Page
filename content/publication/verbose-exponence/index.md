@@ -7,7 +7,7 @@ publication_types:
 authors:
   - MJ Carroll
 doi: https://doi.org/10.1007/s11525-021-09384-8
-publication: Morphology
+publication: _Morphology_
 publication_short: ""
 abstract: Multiple exponence is the multiple marking of the same feature or
   category within a single word. Distributed exponence is the occurrence of
