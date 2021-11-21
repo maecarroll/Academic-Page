@@ -17,5 +17,5 @@ content:
     exclude_featured: false
 headless: false
 design:
-  view: 4
+  view: 2
 ---
