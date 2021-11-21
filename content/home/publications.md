@@ -6,7 +6,7 @@ title: Recent Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 3
   offset: 0
   order: desc
   filters:
@@ -17,5 +17,5 @@ content:
     exclude_featured: true
 headless: true
 design:
-  view: 3
+  view: 2
 ---
