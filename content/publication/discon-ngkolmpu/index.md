@@ -4,7 +4,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - MJ Carroll
+  - Carroll
+  - MJ
 doi: https://doi.org/10.1075/sl.19015.car
 publication: *Studies in Language*
 publication_short: ""
