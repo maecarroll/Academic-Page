@@ -19,7 +19,7 @@ authors:
   - Charlotte van Tongeren
   - Jeff Siegel
 doi: https://doi.org/10.1515/9783110295252-006
-publication: *The Languages and Linguistics of the New Guinea Area*
+publication: The Languages and Linguistics of the New Guinea Area
 publication_short: ""
 abstract:
 

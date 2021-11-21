@@ -6,7 +6,7 @@ publication_types:
 authors:
   - MJ Carroll
 doi: http://hdl.handle.net/1885/205929
-publication: *Proceedings of the 19th International Congress of Phonetic Sciences*
+publication: Proceedings of the 19th International Congress of Phonetic Sciences
 publication_short: ""
 abstract: Ngkolmpu (Yam, Papuan) has phonetic prenasalised
 voiceless stops as phonemic segments. Phonetically,
