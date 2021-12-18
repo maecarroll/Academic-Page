@@ -4,6 +4,13 @@ title: Explaining redundancy in linguistic morphology: evidence from Yam and Kar
 event: Australian Linguistics Society Annual Meeting 2021
 event_url: hhttps://als.asn.au/Conference/Conference2021/General
 
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Talk at ALS 2021
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -23,9 +30,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: ""
-  caption: ""
-  focal_point: ""
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 links:
 - icon: twitter
@@ -50,6 +57,4 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["Evolution"]
-
-
 ---
