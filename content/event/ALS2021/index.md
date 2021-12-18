@@ -17,9 +17,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors:
-- MJ Carroll
-- Z Baratashvili
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -51,9 +49,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- Exponence
-- Papuan languages
-- Evolution
+projects: ["Evolution"]
+
 
 ---
