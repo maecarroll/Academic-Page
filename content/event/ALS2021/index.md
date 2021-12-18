@@ -2,7 +2,7 @@
 title: Explaining redundancy in linguistic morphology: evidence from Yam and Kartvelian
 
 event: Australian Linguistics Society Annual Meeting 2021
-event_url: hhttps://als.asn.au/Conference/Conference2021/General
+event_url: https://als.asn.au/Conference/Conference2021/General
 
 location: Wowchemy HQ
 address:
@@ -56,5 +56,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Evolution"]
+projects: []
 ---
