@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Example Talk DIDIDID
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: []A
 
 # Is this a featured talk? (true/false)
 featured: false

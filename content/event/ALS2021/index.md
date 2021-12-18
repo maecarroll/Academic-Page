@@ -17,15 +17,17 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [MJ Carroll; Z Baratashvili]
+authors:
+- MJ Carroll
+- Z Baratashvili
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
-image:
-  caption:
-  focal_point: Right
+image: ""
+  caption: ""
+  focal_point: ""
 
 links:
 - icon: twitter
@@ -53,4 +55,5 @@ projects:
 - Exponence
 - Papuan languages
 - Evolution
+
 ---
