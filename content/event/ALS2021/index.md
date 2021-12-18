@@ -1,5 +1,5 @@
 ---
-title: Explaining redundancy in linguistic morphology evidence from Yam and Kartvelian
+title: "Explaining redundancy in linguistic morphology: evidence from Yam and Kartvelian"
 
 event: Australian Linguistics Society Annual Meeting 2021
 event_url: https://als.asn.au/Conference/Conference2021/General
